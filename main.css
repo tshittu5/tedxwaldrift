@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    height: 300vh;
+    margin: 0;
+}
+
+div {
+    height: 150vh;
+    padding: 10em;
+}
